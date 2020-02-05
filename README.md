@@ -1,10 +1,5 @@
 # Contador
 package contador;
-
-/**
- *
- * @author USUARIO
- */
 public class Contador {
    public static void main(String[] args) {
         double n=0;
